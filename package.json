@@ -1,0 +1,15 @@
+{
+    "name": "country-finder",
+    "version": "1.0.6",
+    "description": "get world countries general info",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "jest": "^26.0.1"
+    }
+}
