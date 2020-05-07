@@ -1,4 +1,5 @@
-Get world countries
+Get world countries.
+Minimal countries information finder
 
 ## byCountryCode
 
