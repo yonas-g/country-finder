@@ -1,8 +1,12 @@
 {
     "name": "country-finder",
-    "version": "1.0.7",
+    "version": "1.0.8",
     "description": "get world countries general info",
     "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/yonas-g/country-finder.git"
+    },
     "scripts": {
         "test": "jest"
     },

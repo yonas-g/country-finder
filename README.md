@@ -1,3 +1,5 @@
+# [Country Finder](https://www.npmjs.com/package/country-finder)
+
 Get world countries.
 Minimal countries information finder
 
@@ -23,8 +25,6 @@ let result = countryFinder.byCountryCode("et");
 	}
 */
 ```
-
-`@param {String} code`
 
 ## byId
 
